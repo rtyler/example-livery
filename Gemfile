@@ -1,4 +1,4 @@
 source :gemcutter
 
 gem 'rake'
-gem 'blimpy'
+gem 'blimpy', '~> 0.2'
